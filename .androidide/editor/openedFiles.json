@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Study Link/app/src/main/java/com/studylink/activities/SplashScreen.java",
+      "selection": {
+        "end": {
+          "column": 22,
+          "index": -1,
+          "line": 29
+        },
+        "start": {
+          "column": 22,
+          "index": -1,
+          "line": 29
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Study Link/app/src/main/java/com/studylink/activities/SplashScreen.java"
+}
