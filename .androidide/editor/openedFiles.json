@@ -4,62 +4,17 @@
       "file": "/storage/emulated/0/AndroidIDEProjects/Study Link/app/src/main/res/layout/activity_create_account.xml",
       "selection": {
         "end": {
-          "column": 52,
+          "column": 45,
           "index": -1,
-          "line": 23
+          "line": 29
         },
         "start": {
-          "column": 52,
+          "column": 45,
           "index": -1,
-          "line": 23
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Study Link/app/src/main/java/com/studylink/activities/CreateAccountActivity.java",
-      "selection": {
-        "end": {
-          "column": 42,
-          "index": -1,
-          "line": 14
-        },
-        "start": {
-          "column": 42,
-          "index": -1,
-          "line": 14
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Study Link/app/src/main/java/com/studylink/activities/SplashScreen.java",
-      "selection": {
-        "end": {
-          "column": 89,
-          "index": -1,
-          "line": 24
-        },
-        "start": {
-          "column": 89,
-          "index": -1,
-          "line": 24
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Study Link/app/src/main/AndroidManifest.xml",
-      "selection": {
-        "end": {
-          "column": 77,
-          "index": -1,
-          "line": 5
-        },
-        "start": {
-          "column": 77,
-          "index": -1,
-          "line": 5
+          "line": 29
         }
       }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Study Link/app/src/main/AndroidManifest.xml"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Study Link/app/src/main/res/layout/activity_create_account.xml"
 }
